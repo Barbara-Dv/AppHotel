@@ -41,7 +41,8 @@
                         </HorizontalStackLayout>
                     </VerticalStackLayout>
                 </Frame>
-                <Button Text="Avançar"/>
+                <Button Text="Avançar"
+                Clicked="BtnAvancar_Clicked"/>
             </VerticalStackLayout>
         </Frame>
     </VerticalStackLayout>
